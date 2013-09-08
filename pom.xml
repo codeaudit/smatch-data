@@ -109,8 +109,14 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    
+    <scm>
+        <url>git@github.com:opendatatrentino/smatch-data.git</url>
+        <connection>scm:git:git://github.com/opendatatrentino/smatch-data</connection>
+        <developerConnection>scm:git:https://github.com/opendatatrentino/smatch-data.git</developerConnection>
+    </scm>
 	
-	<developers>
+    <developers>
         <developer>
             <id>moaz</id>
             <name>Moaz Reyad</name>
